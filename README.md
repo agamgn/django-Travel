@@ -20,7 +20,7 @@
 
 ### 技术栈
 
-- djabgo
+- django
 - django相关拓展模块
 - 支付宝插件
 - xadmin
